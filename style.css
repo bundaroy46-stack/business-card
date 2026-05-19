@@ -1,0 +1,23 @@
+
+
+body{
+    background: #111;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+.card{
+    background: #1b1b1b;
+    border: 1px solid #999;
+    border-radius: 10px;
+    padding: 20px;
+    width: 300px;
+    margin: 50px auto;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.card .box-shadow{
+    border: 1px solid #999;
+    padding: 10px;
+    margin-top: 10px;
+}
